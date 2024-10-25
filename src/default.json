@@ -1,0 +1,15 @@
+{
+  "todo_file": "res.json",
+  "keymaps": [],
+  "default_filters": [],
+  "tags_style": [],
+  "default_tag_style": {
+    "text_color": "safd",
+    "bg_color": "",
+    "name": "TEST"
+  },
+  "default_tag": null,
+  "date_input_format": "YYYY-MM-DD",
+  "date_display_format": "YYYY-MM-DD",
+  "item_style": []
+}
